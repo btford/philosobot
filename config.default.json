@@ -1,0 +1,5 @@
+{
+  "server": "irc.example.com",
+  "botname": "philosobot",
+  "channels": ["#home"]
+}
